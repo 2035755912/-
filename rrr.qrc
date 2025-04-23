@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>myres/app.png</file>
+        <file>myres/background.jpg</file>
+        <file>myres/bomb.png</file>
+        <file>myres/bullet.png</file>
+        <file>myres/enemy.png</file>
+        <file>myres/myplane.png</file>
+    </qresource>
+</RCC>

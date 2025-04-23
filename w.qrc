@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>myres/app.png</file>
+        <file>myres/bullet.png</file>
+        <file>myres/enemy.png</file>
+        <file>myres/myplane.png</file>
+        <file>myres/2.png</file>
+        <file>myres/01.png</file>
+        <file>myres/enemy01.png</file>
+        <file>myres/bomb01.png</file>
+        <file>myres/bomb02.png</file>
+        <file>myres/bomb03.png</file>
+        <file>myres/bomb04.png</file>
+        <file>myres/bomb05.png</file>
+        <file>myres/attack.wav</file>
+        <file>myres/background.png</file>
+        <file>myres/me2.png</file>
+        <file>myres/enemy2.png</file>
+        <file>myres/bullet1.png</file>
+        <file>myres/bullet2.png</file>
+        <file>myres/bullet3.png</file>
+        <file>myres/bullet4.png</file>
+        <file>myres/bullet5.png</file>
+    </qresource>
+</RCC>
